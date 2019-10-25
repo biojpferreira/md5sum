@@ -20,7 +20,7 @@ No caso da opção de geração de relatório será criado um arquivo txt conten
 ## Como executar:
 ```bash
 #Criando arquivo guia.
-ls -1d /home/brokssord/Desktop/testes_python/teste_funcional/* > guia.txt
+ls -1d /home/brokssord/Desktop/testes_python/exemplo/* > guia.txt
 
 #executando script.
 /home/brokssord/Desktop/testes_python/md5_v5.py
@@ -28,26 +28,26 @@ ls -1d /home/brokssord/Desktop/testes_python/teste_funcional/* > guia.txt
 Deseja gerar um relatório dos códigos gerados? [Y,N]y
 
 Qual o tipo de arquivo a ser analisado? [BAM, FASTQ, TODOS]: 
-Arquivo: /home/brokssord/Desktop/testes_python/teste_funcional/diretorio/da.txt --- Hash: d41d8cd98f00b204e9800998ecf8427e --- Data: Dia: 25/10/19 -- Ás 10:54
-Hash realizado com sucesso! " /home/brokssord/Desktop/testes_python/teste_funcional/diretorio/da.txt" Dia: 25/10/19 -- Ás 10:54
-Arquivo: /home/brokssord/Desktop/testes_python/teste_funcional/diretorio/daaa.txt --- Hash: d41d8cd98f00b204e9800998ecf8427e --- Data: Dia: 25/10/19 -- Ás 10:54
-Hash realizado com sucesso! " /home/brokssord/Desktop/testes_python/teste_funcional/diretorio/daaa.txt" Dia: 25/10/19 -- Ás 10:54
+Arquivo: /home/brokssord/Desktop/testes_python/exemplo/diretorio/da.txt --- Hash: d41d8cd98f00b204e9800998ecf8427e --- Data: Dia: 25/10/19 -- Ás 10:54
+Hash realizado com sucesso! " /home/brokssord/Desktop/testes_python/exemplo/diretorio/da.txt" Dia: 25/10/19 -- Ás 10:54
+Arquivo: /home/brokssord/Desktop/testes_python/exemplo/diretorio/daaa.txt --- Hash: d41d8cd98f00b204e9800998ecf8427e --- Data: Dia: 25/10/19 -- Ás 10:54
+Hash realizado com sucesso! " /home/brokssord/Desktop/testes_python/exemplo/diretorio/daaa.txt" Dia: 25/10/19 -- Ás 10:54
 
  ==================================================================================================== 
 
-Arquivo: /home/brokssord/Desktop/testes_python/teste_funcional/diretorio2/ca.txt --- Hash: d41d8cd98f00b204e9800998ecf8427e --- Data: Dia: 25/10/19 -- Ás 10:54
-Hash realizado com sucesso! " /home/brokssord/Desktop/testes_python/teste_funcional/diretorio2/ca.txt" Dia: 25/10/19 -- Ás 10:54
-Arquivo: /home/brokssord/Desktop/testes_python/teste_funcional/diretorio2/df.txt --- Hash: d41d8cd98f00b204e9800998ecf8427e --- Data: Dia: 25/10/19 -- Ás 10:54
-Hash realizado com sucesso! " /home/brokssord/Desktop/testes_python/teste_funcional/diretorio2/df.txt" Dia: 25/10/19 -- Ás 10:54
+Arquivo: /home/brokssord/Desktop/testes_python/exemplo/diretorio2/ca.txt --- Hash: d41d8cd98f00b204e9800998ecf8427e --- Data: Dia: 25/10/19 -- Ás 10:54
+Hash realizado com sucesso! " /home/brokssord/Desktop/testes_python/exemplo/diretorio2/ca.txt" Dia: 25/10/19 -- Ás 10:54
+Arquivo: /home/brokssord/Desktop/testes_python/exemplo/diretorio2/df.txt --- Hash: d41d8cd98f00b204e9800998ecf8427e --- Data: Dia: 25/10/19 -- Ás 10:54
+Hash realizado com sucesso! " /home/brokssord/Desktop/testes_python/exemplo/diretorio2/df.txt" Dia: 25/10/19 -- Ás 10:54
 
  ==================================================================================================== 
 
-Arquivo: /home/brokssord/Desktop/testes_python/teste_funcional/diretorio3/ba.txt --- Hash: d41d8cd98f00b204e9800998ecf8427e --- Data: Dia: 25/10/19 -- Ás 10:54
-Hash realizado com sucesso! " /home/brokssord/Desktop/testes_python/teste_funcional/diretorio3/ba.txt" Dia: 25/10/19 -- Ás 10:54
-Arquivo: /home/brokssord/Desktop/testes_python/teste_funcional/diretorio3/aa.txt --- Hash: d41d8cd98f00b204e9800998ecf8427e --- Data: Dia: 25/10/19 -- Ás 10:54
-Hash realizado com sucesso! " /home/brokssord/Desktop/testes_python/teste_funcional/diretorio3/aa.txt" Dia: 25/10/19 -- Ás 10:54
-Arquivo: /home/brokssord/Desktop/testes_python/teste_funcional/diretorio3/df.txt --- Hash: d41d8cd98f00b204e9800998ecf8427e --- Data: Dia: 25/10/19 -- Ás 10:54
-Hash realizado com sucesso! " /home/brokssord/Desktop/testes_python/teste_funcional/diretorio3/df.txt" Dia: 25/10/19 -- Ás 10:54
+Arquivo: /home/brokssord/Desktop/testes_python/exemplo/diretorio3/ba.txt --- Hash: d41d8cd98f00b204e9800998ecf8427e --- Data: Dia: 25/10/19 -- Ás 10:54
+Hash realizado com sucesso! " /home/brokssord/Desktop/testes_python/exemplo/diretorio3/ba.txt" Dia: 25/10/19 -- Ás 10:54
+Arquivo: /home/brokssord/Desktop/testes_python/exemplo/diretorio3/aa.txt --- Hash: d41d8cd98f00b204e9800998ecf8427e --- Data: Dia: 25/10/19 -- Ás 10:54
+Hash realizado com sucesso! " /home/brokssord/Desktop/testes_python/exemplo/diretorio3/aa.txt" Dia: 25/10/19 -- Ás 10:54
+Arquivo: /home/brokssord/Desktop/testes_python/exemplo/diretorio3/df.txt --- Hash: d41d8cd98f00b204e9800998ecf8427e --- Data: Dia: 25/10/19 -- Ás 10:54
+Hash realizado com sucesso! " /home/brokssord/Desktop/testes_python/exemplo/diretorio3/df.txt" Dia: 25/10/19 -- Ás 10:54
 
  ==================================================================================================== 
 
